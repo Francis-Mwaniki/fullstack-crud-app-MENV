@@ -5,9 +5,6 @@ fullstack-crud-app-MENV
 - for backend add
 ```sh
 DB_CONNECT="mongodb://localhost:27017/courses"
-```sh
-```sh
-TOKEN_SECRET=DFDFGHJHFDFGHJHGFDVBH
 ```
 ```sh
 PORT=7000
