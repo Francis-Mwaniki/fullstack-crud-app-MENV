@@ -2,7 +2,7 @@
 fullstack-crud-app-MENV
 
 
-# for backend add
+# for backend add to your .env
 ```sh
 DB_CONNECT="mongodb://localhost:27017/courses"
 ```
