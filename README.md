@@ -12,7 +12,7 @@ PORT=7000
 ```sh
 yarn or npm i
 ```
-## usage
+# usage
 ```sh
 yarn nodemon
 ```
@@ -24,7 +24,7 @@ yarn nodemon
 ```sh
 yarn or npm i
 ```
-## usage
+# usage
 ```sh
 yarn dev
 ```
