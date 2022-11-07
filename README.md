@@ -2,7 +2,7 @@
 fullstack-crud-app-MENV
 
 
-- for backend add
+# for backend add
 ```sh
 DB_CONNECT="mongodb://localhost:27017/courses"
 ```
@@ -12,7 +12,7 @@ PORT=7000
 ```sh
 yarn or npm i
 ```
-# usage
+## usage
 ```sh
 yarn nodemon
 ```
@@ -20,11 +20,11 @@ yarn nodemon
 
 
 
-- for client 
+# for client 
 ```sh
 yarn or npm i
 ```
-# usage
+## usage
 ```sh
 yarn dev
 ```
